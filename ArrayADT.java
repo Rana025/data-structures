@@ -1,10 +1,4 @@
-/* 
-Linear search Function will return position if found,
-		otherwise it returns -1.
- 
-Here ADT - Abstract Data type nothing but a class 
 
-*/
 
 public class ArrayADT
 {
